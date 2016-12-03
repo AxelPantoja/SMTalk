@@ -1,0 +1,7 @@
+Anroid studio      (android)
+NetBeens           (java)
+Html               (sublime text)
+Leap Motion        
+visual studio       (c# para aplicacion universal de window)
+unity		 
+photoshop
